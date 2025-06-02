@@ -1,0 +1,5 @@
+com\mycompany\dequeue\DeQueue.class
+com\mycompany\dequeue\Queue.class
+com\mycompany\dequeue\Queue$DescendingIteratorImpl.class
+com\mycompany\dequeue\App.class
+com\mycompany\dequeue\Queue$IteratorImpl.class
