@@ -11,8 +11,6 @@ import java.util.NoSuchElementException;
 /**
  * Authors:
  * - Konstantinos Kotsaras (it2022050)
- * - Ioulianos Polyzos (it2022091)
- * Team: 45
  */
 public class Queue<E> implements DeQueue<E> , Iterable<E>{
 
